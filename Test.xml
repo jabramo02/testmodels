@@ -1,0 +1,41 @@
+<modelinventory>
+	<vendor>
+		<name>Test Vendor</name>
+		<contact></contact>
+		<email></email>
+		<phone></phone>
+		<website></website>
+		<facebook></facebook>
+		<notes></notes>
+		<logolink></logolink>
+	</vendor>
+	<categories>
+		<catagory>
+		 <id>1</id>
+		 <name>Cat1</name>
+	</categories>
+	<models>
+
+	
+<model>
+   <id>1000</id>
+   <categoryid>1</categoryid>
+   <name>Present</name>
+   <type>Christmas</type>
+   <weblink></weblink>
+   <material>Coro</material>
+   <width></width>
+   <height></height>
+   <thickness></thickness>
+   <pixelcount>129</pixelcount>
+   <pixeldescription></pixeldescription>
+   <pixelspacing></pixelspacing>
+   <imagefile></imagefile>
+   <notes></notes>
+   <wiring>
+      <xmodellink>https://raw.githubusercontent.com/jabramo02/testmodels/master/Present%2029in.xmodel</xmodellink>
+   </wiring>
+</model>
+
+	</models>
+</modelinventory>
